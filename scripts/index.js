@@ -7,8 +7,8 @@ const outputElement = document.querySelector('[ data-output]');
 
 
 // Global pokemon cache
-let cachedPokemon = 'charmander';
-let pokemonPromise;
+// let cachedPokemon = 'charmander';
+// let pokemonPromise;
 
 
 // function that gets a pokemon based on thier pokedex #
