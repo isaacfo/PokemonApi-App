@@ -65,21 +65,26 @@ function showCachedPokemon(err) {
 function extractPokemonText(pokemonObj) {
     //debugger;
     //console.log(pokemonObj);
-    return [pokemonObj.name, pokemonObj.types[0].type.name];
+    // if(pokemonObj.sprites){
+    //     console.log(pokemonObj.sprites)
+        return [pokemonObj.name, pokemonObj.sprites.front_default, pokemonObj.types[0].type.name]};
     //return 'charmander'
-}
+
 
 
 
 
 
 // function that draws joke to DOM
-function drawPokemon(pokemonText) {
+function drawPokemon(pokemonInfo) {
     const newPokemon = document.createElement('li');
-    newPokemon.textContent = pokemonText;
+    newPokemon.textContent = pokemonInfo[0];
+    const newSprite = document.createElement('img');
+    newSprite.setAttribute('src', pokemonInfo[1]);
 
     // not returning, just appending
     outputElement.appendChild(newPokemon);
+    newPokemon.appendChild(newSprite);
         
 }
 
