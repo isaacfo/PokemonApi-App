@@ -8,5 +8,8 @@ Plan is to create a full-fledged pokedex in the near future
 
 
 
-![pokemonapp](/images/pokemonapi.png)
-Format: ![Alt Text](url)
+
+
+<p align=‘center’>
+   <img src=‘readme_images/pokemonapi.png’ alt=‘pokemonapiPic’></img>
+</p>
