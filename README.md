@@ -11,5 +11,5 @@ Plan is to create a full-fledged pokedex in the near future
 
 
 <p align=‘center’>
-   <img src=‘readme_images/pokemonapi.png’ alt=‘pokemonapiPic’></img>
+   <img src=‘./readme_images/pokemonapi.png’ alt=‘pokemonapiPic’></img>
 </p>
