@@ -6,3 +6,7 @@ In class project used to learn more JavaScrpit and become familair with JSON, fe
 
 Plan is to create a full-fledged pokedex in the near future 
 
+
+
+![pokemonapp](/images/pokemonapi.png)
+Format: ![Alt Text](url)
