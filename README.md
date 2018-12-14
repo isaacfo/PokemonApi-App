@@ -12,4 +12,4 @@ Plan is to create a full-fledged pokedex in the near future
 
 
 
-![pokemonapi](/readme_images/pokemonapi.png | width=300)
+![pokemonapi](/readme_images/pokemonapi.png)
