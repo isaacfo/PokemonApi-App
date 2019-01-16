@@ -13,3 +13,7 @@ Plan is to create a full-fledged pokedex in the near future
 
 
 ![pokemonapi](/readme_images/pokemonapi.png)
+
+![test image size](/readme_images/pokemonapi.png){:class="img-responsive"}
+![test image size](/readme_images/pokemonapi.png){:height="50%" width="50%"}
+![test image size](/readme_images/pokemonapi.png){:height="700px" width="400px"}
