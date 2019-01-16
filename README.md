@@ -10,6 +10,6 @@ Plan is to create a full-fledged pokedex in the near future
 
 
 
-<img src="/readme_images/pokemonapi.png" alt="Pokemon site pic" height="500" width="400">
+<img src="/readme_images/pokemonapi.png" alt="Pokemon site pic" height="500" width="350">
 
 
